@@ -1,1 +1,1 @@
-# MTAA-FE-Strecansky-Kilian
+# Moneybox Frontend
